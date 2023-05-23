@@ -6,9 +6,8 @@ Visualización de Información
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>tp grupal</title>
+  <title>JS Bin</title>
 </head>
 <body>
-<div class="flourish-embed" data-src="story/1927006"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-</body>
+<div class="flourish-embed" data-src="story/1927006"><script src="https://public.flourish.studio/resources/embed.js"></script></div></body>
 </html>
