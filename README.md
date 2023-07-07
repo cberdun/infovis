@@ -10,4 +10,5 @@ Visualización de Información
 </head>
 <body>
 <div class="flourish-embed" data-src="story/1927006"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+</body>
 </html>
